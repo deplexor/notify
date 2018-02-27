@@ -1,5 +1,7 @@
 # Important
 This fork's purpose is to keep notify's releases up to date since the original author hasn't made a release in over a year.
+You can download the latest release here: https://github.com/deplexor/notify/releases/download/notify-latest/notify-latest.apk
+It's not official and I have no association with mashlol
 
 ![notify](http://i.imgur.com/OYoRBS3.png)
 
