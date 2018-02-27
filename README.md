@@ -1,3 +1,6 @@
+# Important
+This fork's purpose is to keep notify's releases up to date since the original author hasn't made a release in over a year.
+
 ![notify](http://i.imgur.com/OYoRBS3.png)
 
 [Play Store Link](https://play.google.com/store/apps/details?id=com.kevinbedi.notify)
